@@ -1,0 +1,202 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "icon": "🤖",
+    "url": "https://chat.openai.com",
+    "category": "对话类",
+    "description": "通用对话与内容创作助手",
+    "tags": ["对话", "写作"],
+    "hotScore": 98
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "icon": "✨",
+    "url": "https://gemini.google.com",
+    "category": "对话类",
+    "description": "Google 多模态智能助手",
+    "tags": ["对话", "多模态"],
+    "hotScore": 92
+  },
+  {
+    "id": "grok",
+    "name": "Grok",
+    "icon": "🚀",
+    "url": "https://x.ai",
+    "category": "对话类",
+    "description": "xAI 智能对话与分析",
+    "tags": ["对话", "推理"],
+    "hotScore": 85
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "icon": "🔍",
+    "url": "https://www.deepseek.com",
+    "category": "对话类",
+    "description": "开源大模型与推理能力",
+    "tags": ["开源", "推理"],
+    "hotScore": 90
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "icon": "🧠",
+    "url": "https://www.doubao.com",
+    "category": "对话类",
+    "description": "字节跳动智能助手",
+    "tags": ["对话"],
+    "hotScore": 88
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "icon": "🧩",
+    "url": "https://claude.ai",
+    "category": "对话类",
+    "description": "高质量对话与长文本处理",
+    "tags": ["对话", "长文"],
+    "hotScore": 89
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "icon": "🎨",
+    "url": "https://www.midjourney.com",
+    "category": "设计类",
+    "description": "AI 绘画与视觉创作",
+    "tags": ["图像", "设计"],
+    "hotScore": 95
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "icon": "🖼️",
+    "url": "https://stability.ai",
+    "category": "设计类",
+    "description": "开源扩散模型工具",
+    "tags": ["图像", "开源"],
+    "hotScore": 86
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "icon": "🎬",
+    "url": "https://runwayml.com",
+    "category": "视频类",
+    "description": "视频生成与后期处理",
+    "tags": ["视频", "创意"],
+    "hotScore": 84
+  },
+  {
+    "id": "suno",
+    "name": "Suno",
+    "icon": "🎵",
+    "url": "https://suno.com",
+    "category": "音频类",
+    "description": "AI 作曲与音乐生成",
+    "tags": ["音乐", "生成"],
+    "hotScore": 83
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "icon": "🌐",
+    "url": "https://www.perplexity.ai",
+    "category": "搜索类",
+    "description": "AI 搜索与研究助手",
+    "tags": ["搜索", "研究"],
+    "hotScore": 91
+  },
+  {
+    "id": "phind",
+    "name": "Phind",
+    "icon": "🧭",
+    "url": "https://www.phind.com",
+    "category": "代码类",
+    "description": "开发者搜索与代码答疑",
+    "tags": ["代码", "搜索"],
+    "hotScore": 80
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "icon": "🧑‍💻",
+    "url": "https://www.cursor.com",
+    "category": "代码类",
+    "description": "AI 代码编辑器",
+    "tags": ["代码", "IDE"],
+    "hotScore": 87
+  },
+  {
+    "id": "copilot",
+    "name": "GitHub Copilot",
+    "icon": "🛠️",
+    "url": "https://github.com/features/copilot",
+    "category": "代码类",
+    "description": "AI 代码补全助手",
+    "tags": ["代码", "效率"],
+    "hotScore": 94
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "icon": "📒",
+    "url": "https://www.notion.so/product/ai",
+    "category": "效率类",
+    "description": "协作与写作助手",
+    "tags": ["笔记", "写作"],
+    "hotScore": 82
+  },
+  {
+    "id": "gamma",
+    "name": "Gamma",
+    "icon": "📊",
+    "url": "https://gamma.app",
+    "category": "设计类",
+    "description": "AI 演示与文档生成",
+    "tags": ["演示", "设计"],
+    "hotScore": 79
+  },
+  {
+    "id": "tavily",
+    "name": "Tavily",
+    "icon": "🛰️",
+    "url": "https://tavily.com",
+    "category": "Agent框架",
+    "description": "Agent 搜索增强 API",
+    "tags": ["Agent", "搜索"],
+    "hotScore": 78
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "icon": "🧱",
+    "url": "https://www.langchain.com",
+    "category": "Agent框架",
+    "description": "LLM 应用开发框架",
+    "tags": ["Agent", "框架"],
+    "hotScore": 90
+  },
+  {
+    "id": "llamaindex",
+    "name": "LlamaIndex",
+    "icon": "📚",
+    "url": "https://www.llamaindex.ai",
+    "category": "Agent框架",
+    "description": "RAG 与数据索引工具",
+    "tags": ["RAG", "框架"],
+    "hotScore": 85
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "icon": "🤗",
+    "url": "https://huggingface.co",
+    "category": "模型库",
+    "description": "开源模型与数据集社区",
+    "tags": ["开源", "模型"],
+    "hotScore": 96
+  }
+]
